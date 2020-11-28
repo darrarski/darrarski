@@ -10,9 +10,9 @@ I started my adventure with mobile applications development back in Symbian days
 
 ### 📫 How to reach me
 
-- [Twitter: @darrarski](twitter-profile)
-- [LinkedIn](linkedin-profile)
-- [Stack Overflow Developer Story](stackoverflow-devloper-story)
+- [Twitter: @darrarski][twitter-profile]
+- [LinkedIn][linkedin-profile]
+- [Stack Overflow Developer Story][stackoverflow-devloper-story]
 
 [twitter-profile]: https://twitter.com/darrarski
 [linkedin-profile]: https://www.linkedin.com/in/darrarski
