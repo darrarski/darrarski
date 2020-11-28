@@ -8,7 +8,7 @@ I am a software engineer developing applications for  Apple Platform with agi
 
 I started my adventure with mobile applications development back in Symbian days as a hobby, while the main focus still on backend application development. In 2011 I developed my first app for iOS, and it was a huge change activator in my career. Since then, I have helped many startups develop MVP as an iOS developer, working at a software house. I also gained a lot of experience with agile team management, quickly became a certified Scrum Master, and soon after that, I took the role of a Mentor in the iOS department. I value high quality of the product, no matter if it’s PoC, MVP, or full feature-rich system. I am a test-driven software development enthusiast and practitioner. When I am not working on product development, I like to explore agile ways to deliver high-quality code. In the meantime, I help teams and individuals to improve their skills in iOS application development, writing tests, and process management.
 
-In the years 2011-2016, I had a [personal blog][personal-blog], but I am no longer maintaining it due to lack of time. I do, however, publish some open source projects from time to time. You can find them on my GitHub.
+In the years 2011-2016, I had a [personal blog][personal-blog], but I am no longer maintaining it due to lack of time. I do, however, publish some open source projects from time to time. You can find them [on my GitHub][github-repos].
 
 ### 📫 How to reach me
 
@@ -42,3 +42,4 @@ Here are some ideas to get you started:
 [linkedin-profile]: https://www.linkedin.com/in/darrarski
 [stackoverflow-devloper-story]: https://stackoverflow.com/story/darrarski
 [github-profile]: https://github.com/darrarski
+[github-repos]: https://github.com/darrarski?tab=repositories
