@@ -18,9 +18,9 @@ In the years 2011-2016, I had a [personal blog][personal-blog], but I am no long
 
 ### 📊 My coding stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darrarski&count_private=true&show_icons=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darrarski&count_private=true&show_icons=true)][github-profile]
 
-![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darrarski&layout=compact)
+[![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darrarski&layout=compact)][github-profile]
 
 <!--
 **darrarski/darrarski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,3 +41,4 @@ Here are some ideas to get you started:
 [twitter-profile]: https://twitter.com/darrarski
 [linkedin-profile]: https://www.linkedin.com/in/darrarski
 [stackoverflow-devloper-story]: https://stackoverflow.com/story/darrarski
+[github-profile]: https://github.com/darrarski
