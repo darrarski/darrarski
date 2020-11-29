@@ -16,6 +16,21 @@ In the years 2011-2016, I had a [personal blog][personal-blog], but I am no long
 - [LinkedIn][linkedin-profile]
 - [Stack Overflow Developer Story][stackoverflow-devloper-story]
 
+## 📚 Selected publishments
+
+- [Wallpapers Studio - open source iOS app](https://github.com/darrarski/WallpapersStudio-iOS)
+- [Reading List Calendar - open source macOS app](https://dev.to/elpassion/reading-list-calendar-macos-app-3fmh) [[GitHub repo]](https://github.com/elpassion/ReadingListCalendarApp)
+- [GitHub Status Bar - open source macOS App](https://github.com/darrarski/github-status-bar)
+- [SwiftUI Navigation with Composable Architecture](https://github.com/darrarski/tca-swiftui-navigation-demo)
+- [ScrollViewController - UIKit scroll view component](https://github.com/darrarski/ScrollViewController)
+- [SwiftEndpoint - lightweight networking in Swift](https://github.com/darrarski/SwiftEndpoint)
+- [State Restoration in iOS app - example](https://github.com/darrarski/iOS-State-Restoration)
+- [SwiftUI iOS components](https://github.com/darrarski/SwiftUI-iOS-components)
+- [Snapshot-based transitions in UIKit](https://dev.to/elpassion/reading-list-calendar-macos-app-3fmh)
+- [Custom pagination in UIScrollView](https://dev.to/elpassion/custom-pagination-in-uiscrollview-c45)
+- [Testing animations in UIKit](https://dev.to/elpassion/testing-animations-in-uikit-1fin)
+- [DocumentBrowser iOS - library](https://github.com/darrarski/DocumentBrowser-iOS)
+
 ## 📊 My coding stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darrarski&count_private=true&show_icons=true)][github-profile]
