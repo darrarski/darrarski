@@ -16,7 +16,7 @@ In the years 2011-2016, I had a [personal blog][personal-blog], but I am no long
 - [LinkedIn][linkedin-profile]
 - [Stack Overflow Developer Story][stackoverflow-devloper-story]
 
-## 📚 Selected publishments
+## 📚 Selected publications
 
 - [Wallpapers Studio - open source iOS app](https://github.com/darrarski/WallpapersStudio-iOS)
 - [Reading List Calendar - open source macOS app](https://dev.to/elpassion/reading-list-calendar-macos-app-3fmh) [[GitHub repo]](https://github.com/elpassion/ReadingListCalendarApp)
