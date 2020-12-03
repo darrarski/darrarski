@@ -38,8 +38,8 @@ In the years 2011-2016, I had a [personal blog][personal-blog], but I am no long
 [![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darrarski&layout=compact)][github-profile]
 -->
 
-<a href="#"><img height="170px" src="https://github-readme-stats.vercel.app/api?username=darrarski&count_private=true&show_icons=true" /></a>
-<a href="#"><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrarski&layout=compact" /></a>
+<a href="#"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=darrarski&count_private=true&show_icons=true" /></a>
+<a href="#"><img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrarski&layout=compact" /></a>
 
 <!--
 **darrarski/darrarski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
