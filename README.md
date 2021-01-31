@@ -18,6 +18,7 @@ In the years 2011-2016, I had a [personal blog][personal-blog], but I am no long
 
 ## 📚 Selected publications
 
+- [Swift Composable App Example - how to organize source code](https://github.com/darrarski/swift-composable-app-example)
 - [SwiftUI App Icon Creator - create app icon in Xcode with SwiftUI](https://github.com/darrarski/swiftui-app-icon-creator)
 - [Wallpapers Studio - open source iOS app](https://github.com/darrarski/WallpapersStudio-iOS)
 - [Reading List Calendar - open source macOS app](https://dev.to/elpassion/reading-list-calendar-macos-app-3fmh) [[GitHub repo]](https://github.com/elpassion/ReadingListCalendarApp)
