@@ -1,0 +1,2 @@
+# Thoughts on SwiftUI navigation
+
