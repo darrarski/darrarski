@@ -363,3 +363,11 @@ There is much more to explore when it comes to navigation in SwiftUI apps. I onl
 `NavigationLink` has not only limited usage capability but also can easily cause a lot of problems. It's definitely not an equivalent of `UINavigationController` despite the fact that it uses it under the hood. Its declarative nature looks nice at first sight but can be a reason for headache when trying to implement a fairly simple flow, like pop-to-root, which in imperative UIKit would be a no-brainer.
 
 The biggest pain point for me is actually the lack of a declaratively-manageable navigation stack in SwiftUI. While UIKit provides `UINavigationController` with `setViewControllers(_:animated:)` function, there is no equivalent of it in a SwiftUI world. I'm missing a declarative API that allows managing a stack of views, so we can easily update it. I would love to see it at the next WWDC.
+
+### Do you want to leave a comment?
+
+Check out [dedicated discussion](https://github.com/darrarski/darrarski/discussions/3).
+
+### Did you like it?
+
+<a href="https://www.buymeacoffee.com/darrarski" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" style="height: 60px !important;width: 217px !important;" ></a>
