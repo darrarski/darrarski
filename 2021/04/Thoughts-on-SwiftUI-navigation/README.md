@@ -14,6 +14,10 @@ Although most of the apps will contain rather complex navigation flows, let's st
 
 Consider the following use case: We need to build a basic iOS app with three screens. A user should be able to navigate from the first screen to the second and then to the third one. There should be an option to go back from the third screen directly to the first one. We should be able to control navigation programmatically. The app should feel native. The UI and gestures should be familiar to the user.
 
+|Demo app|
+|:-:|
+|[![navigation in demo app](https://github.com/darrarski/tca-swiftui-navigation-demo/raw/8b48f3aa2ecf386d74a770f997102f76c2a4e5ee/Demo.gif)](https://github.com/darrarski/tca-swiftui-navigation-demo/raw/8b48f3aa2ecf386d74a770f997102f76c2a4e5ee/Demo.mp4)|
+
 This could be fairly easy to implement in UIKit, with a `UINavigationController` controlled imperatively. You can push, pop, or even change the whole stack of view controllers on it, and all happens with a nice animation. However, things look a bit different in SwiftUI's declarative world. We have a `NavigationLink` that can be controlled by `Binding<Bool>`. We will use it, as there are no other options at the moment (besides wrapping `UINavigationController` using `UIViewControllerRepresentable`, which complicates the implementation and bounds it to the iOS platform - let's avoid this road for now).
 
 ## Basic implementation
@@ -352,7 +356,7 @@ extension Reducer {
 
 I've created an [example project](https://github.com/darrarski/tca-swiftui-navigation-demo) to explore how `NavigationLink` can be used with ComposableArchitecure and how the issues mentioned above can be addressed. I tested several approaches and solutions mentioned above. Feel free to check out commits history to follow my journey.
 
-|Navigation in demo app|
+|Demo app|
 |:-:|
 |[![navigation in demo app](https://github.com/darrarski/tca-swiftui-navigation-demo/raw/8b48f3aa2ecf386d74a770f997102f76c2a4e5ee/Demo.gif)](https://github.com/darrarski/tca-swiftui-navigation-demo/raw/8b48f3aa2ecf386d74a770f997102f76c2a4e5ee/Demo.mp4)|
 
