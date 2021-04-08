@@ -1,6 +1,6 @@
 # Thoughts on SwiftUI navigation
 
-...in a [ComposableArchitecture](http://github.com/pointfreeco/swift-composable-architecture) world.
+...in a composable world.
 
 ## Introduction
 
