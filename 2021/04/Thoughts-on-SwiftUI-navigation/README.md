@@ -274,6 +274,8 @@ NavigationLinkView(
 
 It does not require modifying state or reducers showcased in the "Basic implementation" section. It allows for programmatic navigation - both presenting and dismissing screens is possible by simple state mutations inside the reducer. Because we use the last non-`nil` state value when dismissing, there is no glitch. It also works when using `StackNavigationViewStyle` without an issue.
 
+**Update 10.04.2021:** Thanks to [the feedback I received from Thomas Visser](https://github.com/darrarski/darrarski/discussions/3#discussioncomment-591390) I managed to refactor the above `NavigationLink` code. It's now a bit simpler and does not require storing the last non-`nil` value in a `@State` property. You can check out how does it look now in the [example project's repository](https://github.com/darrarski/tca-swiftui-navigation-demo/blob/639ea1ff82742b314b99758c10545fe6daefadea/Demo/Sources/Utils/NavigationLink%2BStore.swift).
+
 ## Dismissing screen and canceling its side effects
 
 As soon as we start adding more logic to the reducers, including long-running effects, we will discover that there is no easy way to cancel them when the screen is dismissed. We just naively set the state of the presented view to `nil` to dismiss it. If side effects are running, an action can be dispatched when the state is already `nil`.
