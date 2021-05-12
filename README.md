@@ -10,6 +10,13 @@ I started my adventure with mobile applications development back in Symbian days
 
 In the years 2011-2016, I had a [personal blog][personal-blog], but I am no longer maintaining it due to lack of time. I do, however, publish some open source projects from time to time. You can find them [on my GitHub][github-repos].
 
+## 💪 What can I do for you
+
+- I help teams and individuals to organize their work using agile methodologies
+- I teach iOS & macOS developers how to write clean and maintainable code
+- I educate about Test Driven Development for Apple platforms
+- I help with implementing complex features and solving issues in iOS & macOS apps
+
 ## 📫 How to reach me
 
 - [Twitter: @darrarski][twitter-profile]
