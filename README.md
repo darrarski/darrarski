@@ -25,6 +25,7 @@ In the years 2011-2016, I had a [personal blog][personal-blog], but I am no long
 
 ## 📚 Selected publications
 
+- [Example source code for the Unidirectional Data Flow presentation](https://github.com/darrarski/UDFExamples)
 - [Total Hours app - measure your events time](https://totalhours.darrarski.pl)
 - [Thoughts on SwiftUI navigation in a composable world](https://github.com/darrarski/darrarski/blob/main/2021/04/Thoughts-on-SwiftUI-navigation/README.md)
 - [Swift Composable App Example - how to organize source code](https://github.com/darrarski/swift-composable-app-example)
