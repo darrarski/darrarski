@@ -25,6 +25,7 @@ In the years 2011-2016, I had a [personal blog][personal-blog], but I am no long
 
 ## 📚 Selected publications
 
+- [Swift Composable Presentation - navigation helpers for Composable Architecture](https://github.com/darrarski/swift-composable-presentation)
 - [xcframework-maker - macOS utility for creating XCFramework with arm64-simulator support](https://github.com/darrarski/xcframework-maker)
 - [Example source code for the Unidirectional Data Flow presentation](https://github.com/darrarski/UDFExamples)
 - [Total Hours app - measure your events time](https://totalhours.darrarski.pl)
