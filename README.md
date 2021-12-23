@@ -49,10 +49,8 @@ In the years 2011-2016, I had a [personal blog][personal-blog], but I am no long
 ## 📊 My coding stats
 
 <p align="center">
-  <a href="#"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=darrarski&count_private=true&show_icons=true#gh-light-mode-only" /></a>
-  <a href="#"><img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrarski&layout=compact#gh-light-mode-only" /></a>
-  <a href="#"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=darrarski&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only" /></a>
-  <a href="#"><img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrarski&layout=compact&theme=dark#gh-dark-mode-only" /></a>
+  <a href="#"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=darrarski&count_private=true&show_icons=true" /></a>
+  <a href="#"><img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrarski&layout=compact" /></a>
 </p>
 
 ## ☕️ Do you like my open source work?
