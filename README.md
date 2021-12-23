@@ -48,12 +48,16 @@ In the years 2011-2016, I had a [personal blog][personal-blog], but I am no long
 
 ## 📊 My coding stats
 
-<a href="#"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=darrarski&count_private=true&show_icons=true" /></a>
-<a href="#"><img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrarski&layout=compact" /></a>
+<p align="center">
+  <a href="#"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=darrarski&count_private=true&show_icons=true#gh-light-mode-only" /></a>
+  <a href="#"><img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrarski&layout=compact#gh-light-mode-only" /></a>
+  <a href="#"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=darrarski&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only" /></a>
+  <a href="#"><img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrarski&layout=compact&theme=dark#gh-dark-mode-only" /></a>
+</p>
 
 ## ☕️ Do you like my open source work?
 
-<a href="https://www.buymeacoffee.com/darrarski" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" style="height: 60px !important;width: 217px !important;" ></a>
+<p align="center"><a href="https://www.buymeacoffee.com/darrarski" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" style="height: 60px !important;width: 217px !important;" ></a></p>
 
 [personal-blog]: http://wp.darrarski.pl
 [twitter-profile]: https://twitter.com/darrarski
