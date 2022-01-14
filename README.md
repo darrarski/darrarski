@@ -25,6 +25,8 @@ In the years 2011-2016, I had a [personal blog][personal-blog], but I am no long
 
 ## 📚 Selected publications
 
+- [SwiftUI Tabs View - customizable replacement for SwiftUI.TabView](https://github.com/darrarski/swiftui-tabs-view)
+- [SwiftUI MKMapView - SwiftUI wrapper for MapKit's MKMapView (UIKit)](https://github.com/darrarski/SwiftUIMKMapView)
 - [Sort Swift Imports - swift library, app and Xcode extension](https://github.com/darrarski/sort-swift-imports)
 - [Swift Composable Presentation - navigation helpers for Composable Architecture](https://github.com/darrarski/swift-composable-presentation)
 - [xcframework-maker - macOS utility for creating XCFramework with arm64-simulator support](https://github.com/darrarski/xcframework-maker)
