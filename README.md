@@ -17,6 +17,8 @@ In the years 2011-2016, I had a [personal blog][personal-blog], but I am no long
 - I educate about Test Driven Development for Apple platforms
 - I help with implementing complex features and solving issues in iOS & macOS apps
 
+[Click here](https://www.notion.so/darrarski/7de8925b1ab7479b9cd29a89845a2b51?v=da58fd385f3f44b3b37d381a8e0365e2) to check out some of the projects I developed or took part in the development of.
+
 ## 📫 How to reach me
 
 - [Twitter: @darrarski][twitter-profile]
