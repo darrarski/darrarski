@@ -22,6 +22,7 @@ In the years 2011-2016, I had a [personal blog][personal-blog], but I am no long
 ## 📫 How to reach me
 
 - [Twitter: @darrarski][twitter-profile]
+- [mastodon.social: @darrarski][mastodon-profile]
 - [LinkedIn][linkedin-profile]
 - [Stack Overflow Developer Story][stackoverflow-devloper-story]
 
@@ -50,19 +51,13 @@ In the years 2011-2016, I had a [personal blog][personal-blog], but I am no long
 - [Testing animations in UIKit](https://dev.to/elpassion/testing-animations-in-uikit-1fin)
 - [DocumentBrowser iOS - library](https://github.com/darrarski/DocumentBrowser-iOS)
 
-## 📊 My coding stats
-
-<p align="center">
-  <a href="#"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=darrarski&count_private=true&show_icons=true" /></a>
-  <a href="#"><img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darrarski&layout=compact" /></a>
-</p>
-
 ## ☕️ Do you like my open source work?
 
-<p align="center"><a href="https://www.buymeacoffee.com/darrarski" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" style="height: 60px !important;width: 217px !important;" ></a></p>
+<a href="https://www.buymeacoffee.com/darrarski" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" style="height: 60px !important;width: 217px !important;" ></a>
 
 [personal-blog]: http://wp.darrarski.pl
 [twitter-profile]: https://twitter.com/darrarski
+[mastodon-profile]: https://mastodon.social/@darrarski
 [linkedin-profile]: https://www.linkedin.com/in/darrarski
 [stackoverflow-devloper-story]: https://stackoverflow.com/story/darrarski
 [github-profile]: https://github.com/darrarski
