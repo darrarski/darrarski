@@ -24,7 +24,7 @@ In the years 2011-2016, I had a [personal blog][personal-blog], but I am no long
 - [Twitter: @darrarski][twitter-profile]
 - [mastodon.social: @darrarski][mastodon-profile]
 - [LinkedIn][linkedin-profile]
-- [Stack Overflow Developer Story][stackoverflow-devloper-story]
+- [Book a meeting][calcom-profile]
 
 ## 📚 Selected publications
 
@@ -59,8 +59,8 @@ In the years 2011-2016, I had a [personal blog][personal-blog], but I am no long
 [twitter-profile]: https://twitter.com/darrarski
 [mastodon-profile]: https://mastodon.social/@darrarski
 [linkedin-profile]: https://www.linkedin.com/in/darrarski
-[stackoverflow-devloper-story]: https://stackoverflow.com/story/darrarski
 [github-profile]: https://github.com/darrarski
 [github-repos]: https://github.com/darrarski?tab=repositories
 [github-gists]: https://gist.github.com/darrarski
 [swift-package-collection]: https://swiftpackageindex.com/darrarski
+[calcom-profile]: https://cal.com/darrarski
