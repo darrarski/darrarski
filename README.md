@@ -28,6 +28,7 @@ In the years 2011-2016, I had a [personal blog][personal-blog], but I am no long
 
 ## 📚 Selected publications
 
+- [Darrarski.app - open source iOS & macOS SwiftUI application about my work and services](https://app.darrarski.pl)
 - [SwiftUI Tabs View - customizable replacement for SwiftUI.TabView](https://github.com/darrarski/swiftui-tabs-view)
 - [SwiftUI MKMapView - SwiftUI wrapper for MapKit's MKMapView (UIKit)](https://github.com/darrarski/SwiftUIMKMapView)
 - [Sort Swift Imports - swift library, app and Xcode extension](https://github.com/darrarski/sort-swift-imports)
