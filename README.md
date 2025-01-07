@@ -30,6 +30,7 @@ Check out my [products and services][gumroad-profile] on Gumroad.
 
 ## 📚 Selected publications
 
+- [Swifty Ledger - powerful and versatile iOS and macOS app for personal budget management](https://swifty-ledger.darrarski.pl)
 - [Darrarski.app - open source iOS & macOS SwiftUI application about my work and services](https://app.darrarski.pl)
 - [SwiftUI Tabs View - customizable replacement for SwiftUI.TabView](https://github.com/darrarski/swiftui-tabs-view)
 - [SwiftUI MKMapView - SwiftUI wrapper for MapKit's MKMapView (UIKit)](https://github.com/darrarski/SwiftUIMKMapView)
