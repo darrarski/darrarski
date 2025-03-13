@@ -31,6 +31,7 @@ Check out my [products and services][gumroad-profile] on Gumroad.
 ## 📚 Selected publications
 
 - [Recorder.app - Versatile screen capture and camera recorder for macOS](https://macrecorder.app)
+- [AudioRecorder.app - Effortless audio recording on macOS](https://audio.macrecorder.app)
 - [Swifty Ledger - powerful and versatile iOS and macOS app for personal budget management](https://swifty-ledger.darrarski.pl)
 - [Darrarski.app - open source iOS & macOS SwiftUI application about my work and services](https://app.darrarski.pl)
 - [SwiftUI Tabs View - customizable replacement for SwiftUI.TabView](https://github.com/darrarski/swiftui-tabs-view)
