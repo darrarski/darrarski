@@ -1,14 +1,8 @@
 ## 👋 Hi there
 
-I am a software engineer developing applications for  Apple Platform with agile methodologies.
+I am a software engineer and a mentor developing applications for  Apple Platform with agile methodologies.
 
 > Choose a job you love and you will never have to work a day in your life ~ Confucius
-
-## 📝 About me
-
-I started my adventure with mobile applications development back in Symbian days as a hobby, while the main focus still on backend application development. In 2011 I developed my first app for iOS, and it was a huge change activator in my career. Since then, I have helped many startups develop MVP as an iOS developer, working at a software house. I also gained a lot of experience with agile team management, quickly became a certified Scrum Master, and soon after that, I took the role of a Mentor in the iOS department. I value high quality of the product, no matter if it’s PoC, MVP, or full feature-rich system. I am a test-driven software development enthusiast and practitioner. When I am not working on product development, I like to explore agile ways to deliver high-quality code. In the meantime, I help teams and individuals to improve their skills in iOS application development, writing tests, and process management.
-
-In the years 2011-2016, I had a [personal blog][personal-blog], but I am no longer maintaining it due to lack of time. I do, however, publish some open source projects from time to time. You can find them in my GitHub [repositories][github-repos] and [gists][github-gists], as well as in my [Swift Package Collection][swift-package-collection].
 
 ## 💪 What can I do for you
 
