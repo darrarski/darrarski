@@ -28,39 +28,96 @@ Check out my [products and services][gumroad-profile] on Gumroad.
 - [LinkedIn][linkedin-profile]
 - [Book a meeting][calcom-profile]
 
-## 🅰️ Projects and Services
+## 🅰️ Selected apps
 
-| [Linkmarks.app](https://linkmarks.darrarski.pl) |
-| :-- |
-| <img src="images/linkmarks-app-icon.png" width="128"  align="left"/> Universal solution for collecting links. Native iOS and macOS app. |
+<table><tr><td width="128" valign="top">
 
-| [Recorder.app](https://macrecorder.app) |
-| :-- |
-| <img src="images/recorder-app-icon.png" width="128"  align="left"/> Versatile screen capture and camera recorder for macOS. Unlock the full potential of screen recording. |
+[![Linkmarks app icon](images/linkmarks-app-icon.png)][linkmarks-website]
 
-| [AudioRecorder.app](https://audio.macrecorder.app) |
-| :-- |
-| <img src="images/audio-recorder-app-icon.png" width="128"  align="left"/> Effortless audio recording on macOS. Record system audio and microphone with ease. No drivers required. Start recording immediately. |
+</td><td valign="top">
 
-| [Swifty Ledger](https://swifty-ledger.darrarski.pl) |
-| :-- |
-| <img src="images/swifty-ledger-app-icon.png" width="128" align="left"/> Powerful and versatile iOS and macOS app for personal budget management. |
+### [Linkmarks.app][linkmarks-website]
 
-| [Darrarski.app](https://app.darrarski.pl) |
-| :-- |
-| <img src="images/darrarski-app-icon.png" width="128" align="left"/> Open source iOS & macOS SwiftUI application about my work and services. |
+Universal solution for collecting links. Native iOS and macOS app.
 
-| [Sort Swift Imports](https://sort-swift-imports.darrarski.pl) |
-| :-- |
-| <img src="images/sort-swift-imports-app-icon.png" width="128" align="left"/> macOS app and Xcode extension for sorting imports in swift files. |
+</td></tr>
+<tr><td width="128" valign="top">
 
-| [Total Hours](https://totalhours.darrarski.pl) |
-| :-- |
-| <img src="images/total-hours-app-icon.png" width="128" align="left"/> macOS utility app that allows summarizing the time of events in your calendar. |
+[![Recorder app icon](images/recorder-app-icon.png)][recorder-app-website]
 
-| [Wallpapers Studio](https://github.com/darrarski/WallpapersStudio-iOS) |
-| :-- |
-| <img src="images/wallpapers-studio-app-icon.png" width="128" align="left"/> Open source iOS application that allows you to easily create wallpaper for your phone from the photos in your Photo Library. |
+</td><td valign="top">
+
+### [Recorder.app][recorder-app-website]
+
+Versatile screen capture and camera recorder for macOS. Unlock the full potential of screen recording.
+
+</td></tr>
+<tr><td width="128" valign="top">
+
+[![Audio Recorder app icon](images/audio-recorder-app-icon.png)][audio-recorder-app-website]
+
+</td><td valign="top">
+
+### [AudioRecorder.app][audio-recorder-app-website]
+
+Effortless audio recording on macOS. Record system audio and microphone with ease. No drivers required. Start recording immediately.
+
+</td></tr>
+<tr><td width="128" valign="top">
+
+[![Swifty Ledger app icon](images/swifty-ledger-app-icon.png)][swifty-ledger-website]
+
+</td><td valign="top">
+
+### [Swifty Ledger][swifty-ledger-website]
+
+Powerful and versatile iOS and macOS app for personal budget management.
+
+</td></tr>
+<tr><td width="128" valign="top">
+
+[![Darrarski app icon](images/darrarski-app-icon.png)][darrarski-app-website]
+
+</td><td valign="top">
+
+### [Darrarski.app][darrarski-app-website]
+
+Open source iOS & macOS SwiftUI application about my work and services.
+
+</td></tr>
+<tr><td width="128" valign="top">
+
+[![Sort Swift Imports app icon](images/sort-swift-imports-app-icon.png)][sort-swift-imports-website]
+
+</td><td valign="top">
+
+### [Sort Swift Imports][sort-swift-imports-website]
+
+macOS app and Xcode extension for sorting imports in swift files.
+
+</td></tr>
+<tr><td width="128" valign="top">
+
+[![Total Hours app icon](images/total-hours-app-icon.png)][total-hours-website]
+
+</td><td valign="top">
+
+### [Total Hours][total-hours-website]
+
+macOS utility app that allows summarizing the time of events in your calendar.
+
+</td></tr>
+<tr><td width="128" valign="top">
+
+[![Wallpapers Studio app icon](images/wallpapers-studio-app-icon.png)][wallpapers-studio-website]
+
+</td><td valign="top">
+
+### [Wallpapers Studio][wallpapers-studio-website]
+
+Open source iOS application that allows you to easily create wallpaper for your phone from the photos in your Photo Library.
+
+</td></tr></table>
 
 ## 📚 Selected publications
 
@@ -100,3 +157,12 @@ Check out my [products and services][gumroad-profile] on Gumroad.
 [calcom-profile]: https://cal.com/darrarski
 [notion-projects]: https://darrarski.notion.site/7de8925b1ab7479b9cd29a89845a2b51
 [gumroad-profile]: https://darrarski.gumroad.com
+
+[wallpapers-studio-website]: https://github.com/darrarski/WallpapersStudio-iOS
+[total-hours-website]: https://totalhours.darrarski.pl
+[sort-swift-imports-website]: https://sort-swift-imports.darrarski.pl/
+[darrarski-app-website]: https://app.darrarski.pl
+[swifty-ledger-website]: https://swifty-ledger.darrarski.pl
+[recorder-app-website]: https://macrecorder.app
+[audio-recorder-app-website]: https://audio.macrecorder.app
+[linkmarks-website]: https://linkmarks.darrarski.pl
