@@ -28,23 +28,28 @@ Check out my [products and services][gumroad-profile] on Gumroad.
 - [LinkedIn][linkedin-profile]
 - [Book a meeting][calcom-profile]
 
-## 📚 Selected publications
+## 🅰️ Projects and Services
 
+- [Linkmarks.app - Universal solution for collecting links. Native iOS and macOS app.](https://linkmarks.darrarski.pl)
 - [Recorder.app - Versatile screen capture and camera recorder for macOS](https://macrecorder.app)
 - [AudioRecorder.app - Effortless audio recording on macOS](https://audio.macrecorder.app)
 - [Swifty Ledger - powerful and versatile iOS and macOS app for personal budget management](https://swifty-ledger.darrarski.pl)
 - [Darrarski.app - open source iOS & macOS SwiftUI application about my work and services](https://app.darrarski.pl)
+- [Sort Swift Imports - macOS app and Xcode extension for sorting imports in swift files](https://sort-swift-imports.darrarski.pl)
+- [Total Hours app - measure your events time](https://totalhours.darrarski.pl)
+- [Wallpapers Studio - open source iOS app](https://github.com/darrarski/WallpapersStudio-iOS)
+
+## 📚 Selected publications
+
 - [SwiftUI Tabs View - customizable replacement for SwiftUI.TabView](https://github.com/darrarski/swiftui-tabs-view)
 - [SwiftUI MKMapView - SwiftUI wrapper for MapKit's MKMapView (UIKit)](https://github.com/darrarski/SwiftUIMKMapView)
-- [Sort Swift Imports - swift library, app and Xcode extension](https://github.com/darrarski/sort-swift-imports)
+- [Sort Swift Imports - swift library, app and Xcode extension for sorting imports in swift files](https://github.com/darrarski/sort-swift-imports)
 - [Swift Composable Presentation - navigation helpers for Composable Architecture](https://github.com/darrarski/swift-composable-presentation)
 - [xcframework-maker - macOS utility for creating XCFramework with arm64-simulator support](https://github.com/darrarski/xcframework-maker)
 - [Example source code for the Unidirectional Data Flow presentation](https://github.com/darrarski/UDFExamples)
-- [Total Hours app - measure your events time](https://totalhours.darrarski.pl)
 - [Thoughts on SwiftUI navigation in a composable world](https://github.com/darrarski/darrarski/blob/main/2021/04/Thoughts-on-SwiftUI-navigation/README.md)
 - [Swift Composable App Example - how to organize source code](https://github.com/darrarski/swift-composable-app-example)
 - [SwiftUI App Icon Creator - create app icon in Xcode with SwiftUI](https://github.com/darrarski/swiftui-app-icon-creator)
-- [Wallpapers Studio - open source iOS app](https://github.com/darrarski/WallpapersStudio-iOS)
 - [Reading List Calendar - open source macOS app](https://dev.to/elpassion/reading-list-calendar-macos-app-3fmh) [[GitHub repo]](https://github.com/elpassion/ReadingListCalendarApp)
 - [GitHub Status Bar - open source macOS App](https://github.com/darrarski/github-status-bar)
 - [SwiftUI Navigation with Composable Architecture](https://github.com/darrarski/tca-swiftui-navigation-demo)
@@ -55,7 +60,7 @@ Check out my [products and services][gumroad-profile] on Gumroad.
 - [Snapshot-based transitions in UIKit](https://dev.to/elpassion/reading-list-calendar-macos-app-3fmh)
 - [Custom pagination in UIScrollView](https://dev.to/elpassion/custom-pagination-in-uiscrollview-c45)
 - [Testing animations in UIKit](https://dev.to/elpassion/testing-animations-in-uikit-1fin)
-- [DocumentBrowser iOS - library](https://github.com/darrarski/DocumentBrowser-iOS)
+- [DocumentBrowser iOS - swift library](https://github.com/darrarski/DocumentBrowser-iOS)
 
 ## ☕️ Do you like my open source work?
 
