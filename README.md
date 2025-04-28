@@ -31,35 +31,35 @@ Check out my [products and services][gumroad-profile] on Gumroad.
 ## 🅰️ Projects and Services
 
 | [Linkmarks.app](https://linkmarks.darrarski.pl) |
-| --- |
+| :-- |
 | <img src="images/linkmarks-app-icon.png" width="128"  align="left"/> Universal solution for collecting links. Native iOS and macOS app. |
 
 | [Recorder.app](https://macrecorder.app) |
-| --- |
+| :-- |
 | <img src="images/recorder-app-icon.png" width="128"  align="left"/> Versatile screen capture and camera recorder for macOS. Unlock the full potential of screen recording. |
 
 | [AudioRecorder.app](https://audio.macrecorder.app) |
-| --- |
+| :-- |
 | <img src="images/audio-recorder-app-icon.png" width="128"  align="left"/> Effortless audio recording on macOS. Record system audio and microphone with ease. No drivers required. Start recording immediately. |
 
 | [Swifty Ledger](https://swifty-ledger.darrarski.pl) |
-| --- |
+| :-- |
 | <img src="images/swifty-ledger-app-icon.png" width="128" align="left"/> Powerful and versatile iOS and macOS app for personal budget management. |
 
 | [Darrarski.app](https://app.darrarski.pl) |
-| --- |
+| :-- |
 | <img src="images/darrarski-app-icon.png" width="128" align="left"/> Open source iOS & macOS SwiftUI application about my work and services. |
 
 | [Sort Swift Imports](https://sort-swift-imports.darrarski.pl) |
-| --- |
+| :-- |
 | <img src="images/sort-swift-imports-app-icon.png" width="128" align="left"/> macOS app and Xcode extension for sorting imports in swift files. |
 
 | [Total Hours](https://totalhours.darrarski.pl) |
-| --- |
+| :-- |
 | <img src="images/total-hours-app-icon.png" width="128" align="left"/> macOS utility app that allows summarizing the time of events in your calendar. |
 
 | [Wallpapers Studio](https://github.com/darrarski/WallpapersStudio-iOS) |
-| --- |
+| :-- |
 | <img src="images/wallpapers-studio-app-icon.png" width="128" align="left"/> Open source iOS application that allows you to easily create wallpaper for your phone from the photos in your Photo Library. |
 
 ## 📚 Selected publications
