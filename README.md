@@ -11,7 +11,7 @@ I am a software engineer and a mentor developing applications for  Apple Plat
 - I educate about Test Driven Development for Apple platforms
 - I help with implementing complex features and solving issues in iOS & macOS apps
 
-[Click here][notion-projects] to check out some of the projects I developed or took part in the development of.
+[Visit my website][darrarski-portfolio] to check out some of the projects I developed or took part in the development of.
 
 Check out my [products and services][gumroad-profile] on Gumroad.
 
@@ -140,7 +140,7 @@ Open source iOS application that allows you to easily create wallpaper for your 
 
 <a href="https://www.buymeacoffee.com/darrarski" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" style="height: 60px !important;width: 217px !important;" ></a>
 
-[personal-blog]: http://wp.darrarski.pl
+[personal-blog]: https://wp.darrarski.pl
 [twitter-profile]: https://twitter.com/darrarski
 [mastodon-profile]: https://mastodon.social/@darrarski
 [linkedin-profile]: https://www.linkedin.com/in/darrarski
@@ -150,6 +150,7 @@ Open source iOS application that allows you to easily create wallpaper for your 
 [swift-package-collection]: https://swiftpackageindex.com/darrarski
 [calcom-profile]: https://cal.com/darrarski
 [notion-projects]: https://darrarski.notion.site/7de8925b1ab7479b9cd29a89845a2b51
+[darrarski-portfolio]: https://darrarski.pl/portfolio/
 [gumroad-profile]: https://darrarski.gumroad.com
 
 [wallpapers-studio-website]: https://github.com/darrarski/WallpapersStudio-iOS
